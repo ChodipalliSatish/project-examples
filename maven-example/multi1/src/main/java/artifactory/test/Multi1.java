@@ -6,6 +6,7 @@ package artifactory.test;
 public class Multi1 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        #Hello Text
+        /**Hello Text
+        */
     }
 }
